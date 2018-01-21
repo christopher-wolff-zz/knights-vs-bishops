@@ -1,0 +1,6 @@
+---
+title: "Knights vs. Bishops"
+output: html_document
+---
+
+Which is more valuable, the knight or the bishop? This may be one of the oldest questions in chess history and frequently cause for heated debates among players. Chairs have been thrown, hearts have been broken, and lives have been lost in unfruitful arguments between advocates of the two sides. Ok, maybe I'm exaggerating a little, but a question this trivial cannot be left unanswered. It's time to settle this debate once and for all -- the data science way.
